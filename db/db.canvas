@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"94eb6b7a8a050a1d","type":"group","x":-312,"y":-1001,"width":1072,"height":1501,"label":"bd_1"},
+		{"id":"3091d9456aba4e4e","type":"group","x":-1620,"y":-780,"width":1220,"height":820,"label":"db_0"},
+		{"id":"b60428cc5406bf97","type":"group","x":-2449,"y":-839,"width":654,"height":469,"label":"deprecated"},
+		{"id":"62e2f37f803c91d6","type":"text","text":"# providers\nid\ncitizen_doc\nfull_name\naddress\nphone\ncreate_at\nupdate_at\n\n","x":-265,"y":-986,"width":250,"height":266,"color":"4"},
+		{"id":"fc31380070c063fd","type":"text","text":"# compras\nid\nid_products\niva\ntotal\n\ncreate_at\nupdate_at\n\n","x":-290,"y":-60,"width":250,"height":260,"color":"3"},
+		{"id":"fb7477121b37edc9","type":"text","text":"# client_databases\nid\nid_user\nname\npgHost\npgHostUnpooled\npgDatabase\npgUser\npgPassword\n\ncreate_at\nupdate_at\n\n","x":-820,"y":-510,"width":305,"height":350,"color":"2"},
+		{"id":"0912518863831782","type":"text","text":"# ~={yellow}users=~\nid\nid_level\ngmail\npassword\ncitizen_doc\nfull_name\nphone\naddress\n\ncreate_at\nupdate_at\n\n","x":-1200,"y":-515,"width":250,"height":360,"color":"1"},
+		{"id":"ce77f779ed3cfcda","type":"text","text":"# ~={yellow}level=~\nid\nname\nlevel\n\ncreate_at\nupdate_at\n\n","x":-1560,"y":-448,"width":250,"height":227,"color":"1"},
+		{"id":"27a5d12ef7d049c6","type":"text","text":"# categorias\nid\nid_products\nname\ncreate_at\nupdate_at\n\n","x":-75,"y":240,"width":280,"height":200,"color":"3"},
+		{"id":"050c11a18075d25d","type":"text","text":"# payroll\nid\ncitizen_doc\nfull_name\nphone\naddress\ncreate_at\nupdate_at\n\n","x":80,"y":-986,"width":250,"height":266,"color":"4"},
+		{"id":"aa0843e53163df1f","type":"text","text":"# products\nid\nname\nprecios= [100,90]\n\ncreate_at\nupdate_at\n\n","x":80,"y":-65,"width":250,"height":210,"color":"3"},
+		{"id":"cfe2ee7e07ccf86b","type":"text","text":"# clients\nid\nid_card\ngmail\npassword\nname\naddress\nphone\n\ncreate_at\nupdate_at\n\n","x":-2280,"y":-768,"width":250,"height":320},
+		{"id":"3fa096456157d9bc","type":"text","text":"# marcas\nid\nid_products\nname\ncreate_at\nupdate_at\n\n","x":240,"y":240,"width":280,"height":200,"color":"3"},
+		{"id":"e8154076d028e682","type":"text","text":"# logs\nid\nid_nomina\ntabla\nid_tabla\nprvious = {}\nupdate = {}\ncreate_at\nupdate_at\n\n","x":440,"y":-983,"width":250,"height":300,"color":"3"},
+		{"id":"a75e8599f1612186","type":"text","text":"# sales\nid\nid_products\nid_customers_system\niva\ntotal\n\ncreate_at\nupdate_at\n\n","x":440,"y":-110,"width":250,"height":300,"color":"3"},
+		{"id":"622e4b204182e296","type":"text","text":"#  \nid\ncitizen_doc\ntlf \nname\naddress\n\ncreate_at\nupdate_at\n\n","x":435,"y":-510,"width":260,"height":306,"color":"3"}
+	],
+	"edges":[
+		{"id":"db99c70d070438d2","fromNode":"0912518863831782","fromSide":"right","toNode":"fb7477121b37edc9","toSide":"left"},
+		{"id":"0284c43ae55571ee","fromNode":"fb7477121b37edc9","fromSide":"right","toNode":"622e4b204182e296","toSide":"left"},
+		{"id":"063329eaa3fe7ef7","fromNode":"622e4b204182e296","fromSide":"bottom","toNode":"a75e8599f1612186","toSide":"top"},
+		{"id":"67f2f896d160a3b9","fromNode":"fb7477121b37edc9","fromSide":"right","toNode":"aa0843e53163df1f","toSide":"top"},
+		{"id":"7a980dff2e8c11fb","fromNode":"aa0843e53163df1f","fromSide":"right","toNode":"a75e8599f1612186","toSide":"left"},
+		{"id":"30de27aba9257fb7","fromNode":"fb7477121b37edc9","fromSide":"right","toNode":"fc31380070c063fd","toSide":"top"},
+		{"id":"0ff09d6b6699696d","fromNode":"fb7477121b37edc9","fromSide":"right","toNode":"62e2f37f803c91d6","toSide":"bottom"},
+		{"id":"140d1f3be29cf81b","fromNode":"fb7477121b37edc9","fromSide":"right","toNode":"050c11a18075d25d","toSide":"bottom"},
+		{"id":"04282b727bb19adb","fromNode":"aa0843e53163df1f","fromSide":"bottom","toNode":"27a5d12ef7d049c6","toSide":"top"},
+		{"id":"10269c913c078d75","fromNode":"aa0843e53163df1f","fromSide":"bottom","toNode":"3fa096456157d9bc","toSide":"top"},
+		{"id":"1f26cf9ca3f50520","fromNode":"ce77f779ed3cfcda","fromSide":"right","toNode":"0912518863831782","toSide":"left"}
+	]
+}
