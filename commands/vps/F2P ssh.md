@@ -17,4 +17,4 @@ se generan estos archivos:
 ```bash
 	google-authenticator
 ```
-y segui los pasos 
+y segui los pasos que se muestren 
