@@ -22,16 +22,16 @@
 ## 4. *Creación de Componentes*
 - **~={green}Objetivo=~**: Desarrollar los componentes individuales.
 - **~={cyan}Tareas=~**:
-  - **Header**:
+  - **~={orange}Header=~**:
     - Crear `Header.astro`.
     - Diseñar y codificar el encabezado con logotipo y menú de navegación.
-  - **Hero Section**:
+  - **~={orange}Hero Section=~**:
     - Crear `Hero.astro`.
     - Diseñar y codificar la sección de inicio con texto y botón.
-  - **Services Section**:
+  - ~={orange}**Services Section**=~:
     - Crear `Services.astro`.
     - Diseñar y codificar la sección de servicios con tarjetas de servicio.
-  - **Footer**:
+  - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
     - Diseñar y codificar el pie de página.
 
