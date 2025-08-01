@@ -48,18 +48,18 @@
   - Si es necesario, integrar React para manejar lógica de estado y eventos.
 
 ## 7. Revisión y Optimización
-- **Objetivo**: Revisar y optimizar el proyecto.
-- **Tareas**:
+- **~={green}Objetivo=~**: Revisar y optimizar el proyecto.
+- **~={orange}Tareas=~**:
   - Comprobar que todo esté funcionando correctamente.
   - Optimizar el rendimiento y la accesibilidad si es necesario.
 
 ## 8. Despliegue
-- **Objetivo**: Desplegar el sitio web en línea.
-- **Tareas**:
+- **~={orange}~={green}Objetivo=~=~**: Desplegar el sitio web en línea.
+- **~={green}~={orange}Tareas=~=~**:
   - Configurar el servicio de despliegue (e.g., Vercel, Netlify).
   - Desplegar el proyecto y verificar que esté funcionando en línea.
 
 ## Consejos Adicionales
-- **Practicar**: La mejor manera de aprender es practicar. No te preocupes si no lo haces perfecto la primera vez.
-- **Documentación**: Lee la documentación de Astro y Tailwind CSS para aprender más sobre sus capacidades.
+- **~={green}Practicar=~**: La mejor manera de aprender es practicar. No te preocupes si no lo haces perfecto la primera vez.
+- **~={green}Documentación=~**: Lee la documentación de Astro y Tailwind CSS para aprender más sobre sus capacidades.
 - **Comunidad**: Únete a comunidades en línea, como foros o grupos de Discord, para obtener ayuda y compartir tu progreso.
