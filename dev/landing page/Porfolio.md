@@ -43,7 +43,7 @@
 
 ## 6. Implementación de Funcionalidades
 - **~={green}Objetivo=~**: Agregar cualquier funcionalidad necesaria a los componentes.
-- **Tareas**:
+- ~={orange}**Tareas**=~:
   - Implementar enlaces y botones de acción.
   - Si es necesario, integrar React para manejar lógica de estado y eventos.
 
