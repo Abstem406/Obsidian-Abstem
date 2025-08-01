@@ -36,13 +36,13 @@
     - Diseñar y codificar el pie de página.
 
 ## 5. Estilo con Tailwind CSS
-- **Objetivo**: Aplicar estilos a los componentes usando Tailwind CSS.
-- **Tareas**:
+- **~={green}Objetivo=~**: Aplicar estilos a los componentes usando Tailwind CSS.
+- **~={cyan}Tareas=~**:
   - Estilizar cada componente con clases de Tailwind CSS.
   - Asegurarse de que los estilos sean coherentes y se ajusten al diseño deseado.
 
 ## 6. Implementación de Funcionalidades
-- **Objetivo**: Agregar cualquier funcionalidad necesaria a los componentes.
+- **~={green}Objetivo=~**: Agregar cualquier funcionalidad necesaria a los componentes.
 - **Tareas**:
   - Implementar enlaces y botones de acción.
   - Si es necesario, integrar React para manejar lógica de estado y eventos.
