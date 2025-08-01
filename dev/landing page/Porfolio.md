@@ -1,6 +1,6 @@
 # Proyecto de Clonación de Página Web con Astro y ShadcnUI
 
-## ~={yellow}1. Planificación y Análisis=~
+## 1. Planificación y Análisis
 - **~={green}Objetivo=~**: Comprender la estructura y el diseño de la página objetivo.
 - **~={cyan}Tareas=~**:
   - Identificar las secciones de la página.
@@ -8,20 +8,20 @@
   - Notar cualquier interacción o funcionalidad adicional.
 
 ## 2. Configuración del Proyecto
-- **Objetivo**: Asegurarse de que el proyecto Astro con Tailwind CSS y React esté configurado correctamente.
-- **Tareas**:
+- **~={green}Objetivo=~**: Asegurarse de que el proyecto Astro con Tailwind CSS y React esté configurado correctamente.
+- **~={cyan}Tareas=~**:
   - Verificar que el proyecto se ha creado y se ha instalado correctamente.
   - Ejecutar `npm run dev` para asegurarse de que el servidor de desarrollo esté funcionando.
 
 ## 3. Diseño de la Estructura
-- **Objetivo**: Dividir la página en componentes manejables.
-- **Tareas**:
+- **~={green}Objetivo=~**: Dividir la página en componentes manejables.
+- **~={cyan}Tareas=~**:
   - Crear una lista de componentes necesarios (e.g., Header, Hero, Services, Footer).
   - Crear archivos para cada componente en `src/components`.
 
-## 4. Creación de Componentes
-- **Objetivo**: Desarrollar los componentes individuales.
-- **Tareas**:
+## 4. *Creación de Componentes*
+- **~={green}Objetivo=~**: Desarrollar los componentes individuales.
+- **~={cyan}Tareas=~**:
   - **Header**:
     - Crear `Header.astro`.
     - Diseñar y codificar el encabezado con logotipo y menú de navegación.
