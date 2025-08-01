@@ -43,23 +43,23 @@
 
 ## 6. Implementación de Funcionalidades
 - **~={green}Objetivo=~**: Agregar cualquier funcionalidad necesaria a los componentes.
-- ~={orange}**Tareas**=~:
+- ~={orange}**~={cyan}Tareas=~**=~:
   - Implementar enlaces y botones de acción.
   - Si es necesario, integrar React para manejar lógica de estado y eventos.
 
 ## 7. Revisión y Optimización
 - **~={green}Objetivo=~**: Revisar y optimizar el proyecto.
-- **~={orange}Tareas=~**:
+- **~={orange}~={cyan}Tareas=~=~**:
   - Comprobar que todo esté funcionando correctamente.
   - Optimizar el rendimiento y la accesibilidad si es necesario.
 
 ## 8. Despliegue
 - **~={orange}~={green}Objetivo=~=~**: Desplegar el sitio web en línea.
-- **~={green}~={orange}Tareas=~=~**:
+- **~={green}~={orange}~={cyan}Tareas=~=~=~**:
   - Configurar el servicio de despliegue (e.g., Vercel, Netlify).
   - Desplegar el proyecto y verificar que esté funcionando en línea.
 
 ## Consejos Adicionales
 - **~={green}Practicar=~**: La mejor manera de aprender es practicar. No te preocupes si no lo haces perfecto la primera vez.
 - **~={green}Documentación=~**: Lee la documentación de Astro y Tailwind CSS para aprender más sobre sus capacidades.
-- **Comunidad**: Únete a comunidades en línea, como foros o grupos de Discord, para obtener ayuda y compartir tu progreso.
+- **~={green}Comunidad=~**: Únete a comunidades en línea, como foros o grupos de Discord, para obtener ayuda y compartir tu progreso.
