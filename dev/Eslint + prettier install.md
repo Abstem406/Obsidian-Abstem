@@ -2,7 +2,14 @@
 
 Se utilizara un proyecto de Astro para ilustrar su configuración:
 
+Astro:
 ```shell
 
-npm install --save-dev eslint prettier eslint-plugin-astro eslint-config-prettier eslint-plugin-prettier prettier-plugin-astro
+	pnpm dlx create-astro@latest My-app --template with-tailwindcss --install --add react --git
+```
+
+Eslint + prettier:
+```shell
+
+	npm install --save-dev eslint prettier eslint-plugin-astro eslint-config-prettier eslint-plugin-prettier prettier-plugin-astro
 ```
