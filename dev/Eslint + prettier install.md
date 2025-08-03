@@ -65,6 +65,7 @@ const config = {
 export default config
 ```
 
+ 
 eslint.config.mjs:
 ```js
 // eslint.config.mjs
