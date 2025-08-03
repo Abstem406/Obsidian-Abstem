@@ -13,3 +13,6 @@ Eslint + prettier:
 
 	pnpm install --save-dev eslint prettier eslint-plugin-astro eslint-config-prettier eslint-plugin-prettier prettier-plugin-astro globals @eslint/js typescript-eslint
 ```
+
+
+config files:
