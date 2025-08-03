@@ -11,5 +11,5 @@ Astro:
 Eslint + prettier:
 ```shell
 
-	pnpm install --save-dev eslint prettier eslint-plugin-astro eslint-config-prettier eslint-plugin-prettier prettier-plugin-astro
+	pnpm install --save-dev eslint prettier eslint-plugin-astro eslint-config-prettier eslint-plugin-prettier prettier-plugin-astro globals @eslint/js typescript-eslint
 ```
