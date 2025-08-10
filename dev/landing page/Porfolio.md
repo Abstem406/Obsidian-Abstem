@@ -114,15 +114,12 @@
     - Crear ~={blue}contacts.astro=~:
 	    - tiene que haber un titulo al principio de la sección "¿Listo para transformar tu negocio?" en medio de la pagina
 	    - debajo del titulo una breve descripción "Contáctanos hoy y descubre cómo podemos ayudarte a crear la solución digital perfecta para tu empresa."
-	    - ahora debajo de la descripción tiene que haber un 1 filas y 4 columnas conformadas por cards 
-	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
+	    - ahora debajo de la descripción tiene que haber un 1 filas y 4 columnas conformadas por cards con las distintas formas de contactar el servicio whatsapp, telegram, Instagram y Email
+	    - las cards deben de ser conformadas de la siguiente forma: 
 		    FILA 0 COLUMNA 0:
-		    - la card en este caso es rectangulo que esta conformado por 2 partes la superior y la inferior que están divididas a la mitad del rectangulo, 
-			    - la superior tiene una imagen que muestra una preview del proyecto y que en la parte superior derecha tiene un componente de pildora con el tipo de sistema que es por ejemplo "Web app", "Dashboard", "Landing" "E-commerce"
-			    - En la parte inferior un 
-				    - titulo "E-commerce Platform"
-				    - pequeña descripción: "Plataforma completa de comercio electrónico con..."
-				    - y unas cuantas pildoras mas que destaquen con que fue hecho el sistema por ejemplo "React", "Node.js","mongoDB" etc..
+		    - icono de Whatsapp en medio de la carta (Icono de la red socila) 
+		    - en este caso el titulo debajo del icono y tambien me medio de la carta debe ser el nombre de la red social en este ejemplo WhatsApp
+		- y debajo de las cards de contacto un breve parrafo con el texto "Respuesta garantizada en menos de 24 horas"
 
 
 
