@@ -33,9 +33,11 @@
 	    - debajo de la pildora esta el titulo que dice "Soluciones digitales" este tiene que aparecer con un efecto de typing al inicial la pagina 
 	    - debajo del titulo tiene que estar una description "Creamos paginas web modernas, sistemas administrativos personalizados y soluciones digitales que impulsen tu negocio hacia el éxito.\n desde landing page hasta sistemas de gestión  completos." 
 	    - debajo de la descriptión dos botones
-		    - "comenzar proyecto ➜"
+		    - "Comenzar proyecto ➜"
+		    - "Ver portafolio"
+	
   - ~={orange}**Services Section**=~:
-    - Crear `Services.astro`.
+    - Crear ~={blue}Services.astro=~:
     - Diseñar y codificar la sección de servicios con tarjetas de servicio.
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
