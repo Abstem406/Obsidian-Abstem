@@ -29,7 +29,7 @@
     
   - **~={orange}Hero Section=~**:
     - Crear ~={blue}Hero.astro=~:
-	    - luego seria la hero section, con un componente de pildora que diga "🥇Desarrollo web Profesional"
+	    - luego seria la hero section, con un componente de pildora que diga "🥇Desarrollo web Profesional" a la parte izquida de la pagina
 	    - debajo de la pildora esta el titulo que dice "Soluciones digitales" este tiene que aparecer con un efecto de typing al inicial la pagina 
 	    - debajo del titulo tiene que estar una description "Creamos paginas web modernas, sistemas administrativos personalizados y soluciones digitales que impulsen tu negocio hacia el éxito.\n desde landing page hasta sistemas de gestión  completos." 
 	    - debajo de la descriptión dos botones
@@ -38,7 +38,7 @@
 	
   - ~={orange}**Services Section**=~:
     - Crear ~={blue}Services.astro=~:
-	    - tiene que haber un titulo al principio de la sección "Nuestros Servicios"
+	    - tiene que haber un titulo al principio de la sección "Nuestros Servicios" en medio de la pagina
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
@@ -94,11 +94,27 @@
 		    - un botón que diga "Contactar Ahora"
 
 
-  - ~={orange}**Services Section**=~:
-    - Crear ~={blue}Services.astro=~:
-	    - tiene que haber un titulo al principio de la sección "Proyectos Destacados"
+  - ~={orange}**Projects Section**=~:
+    - Crear ~={blue}projects.astro=~:
+	    - tiene que haber un titulo al principio de la sección "Proyectos Destacados" en medio de la pagina
 	    - debajo del titulo una breve descripción "Algunos de nuestros trabajos más recientes que demuestran nuestra experiencia y calidad"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 4 columnas conformadas por cards 
+	    - las cards deben de ser conformadas de la siguiente forma: 
+		    FILA 0 COLUMNA 0:
+		    - la card en este caso es rectangulo que esta conformado por 2 partes la superior y la inferior que están divididas a la mitad del rectangulo, 
+			    - la superior tiene una imagen que muestra una preview del proyecto y que en la parte superior derecha tiene un componente de pildora con el tipo de sistema que es por ejemplo "Web app", "Dashboard", "Landing" "E-commerce"
+			    - En la parte inferior un 
+				    - titulo "E-commerce Platform"
+				    - pequeña descripción: "Plataforma completa de comercio electrónico con..."
+				    - y unas cuantas pildoras mas que destaquen con que fue hecho el sistema por ejemplo "React", "Node.js","mongoDB" etc..
+
+
+
+  - ~={orange}**Contacts Section**=~:
+    - Crear ~={blue}contacts.astro=~:
+	    - tiene que haber un titulo al principio de la sección "¿Listo para transformar tu negocio?" en medio de la pagina
+	    - debajo del titulo una breve descripción "Contáctanos hoy y descubre cómo podemos ayudarte a crear la solución digital perfecta para tu empresa."
+	    - ahora debajo de la descripción tiene que haber un 1 filas y 4 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
 		    FILA 0 COLUMNA 0:
 		    - la card en este caso es rectangulo que esta conformado por 2 partes la superior y la inferior que están divididas a la mitad del rectangulo, 
@@ -106,9 +122,7 @@
 			    - En la parte inferior un 
 				    - titulo "E-commerce Platform"
 				    - pequeña descripción: "Plataforma completa de comercio electrónico con..."
-				    - y unas cuantas pildoras mas que dest
-
-
+				    - y unas cuantas pildoras mas que destaquen con que fue hecho el sistema por ejemplo "React", "Node.js","mongoDB" etc..
 
 
 
