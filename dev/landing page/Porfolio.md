@@ -38,7 +38,7 @@
 	
   - ~={orange}**Services Section**=~:
     - Crear ~={blue}Services.astro=~:
-	    - tiene que haber un titulo al princio de la sección "Nuestros Servicios"
+	    - tiene que haber un titulo al principio de la sección "Nuestros Servicios"
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
@@ -56,7 +56,7 @@
 			    - Diseño responsive
 			    - SEO optimizado
 			    - Carga rápida
-			
+				
 			FILA 0 COLUMNA 1:
 			- icon\n 
 		    - titulo "Sistemas de Ventas"
@@ -65,7 +65,6 @@
 				- Control de inventario
 				- Reportes detallados
 				- Facturación automática
-
 			FILA 0 COLUMNA 2:
 			- icon\n 
 		    - titulo: "Sistemas Administrativos"
@@ -89,9 +88,16 @@
 		    - titulo "Hosting Web"
 		    - descripción: "Alojamiento seguro y confiable para tu sitio web"
 		    - lista desordenada: 
-- SSL gratuito
-- Backups automáticos
-- Soporte 24/7
+				- SSL gratuito
+				- Backups automáticos
+				- Soporte 24/7
+				
+			FILA 1 COLUMNA 2:
+			- icon\n (este icono tiene que ser que estar dentro de un cuadrado para ponerle un fondo llamativo y que resalte un poco mas )
+		    - titulo "Consultoría Personalizada"
+		    - descripción: "¿Tienes una idea específica? Hablemos sobre tu proyecto"
+		    - un botón que diga "Contactar Ahora"
+
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
     - Diseñar y codificar el pie de página.
