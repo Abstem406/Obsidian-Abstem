@@ -23,8 +23,10 @@
 - **~={green}Objetivo=~**: Desarrollar los componentes individuales.
 - **~={cyan}Tareas=~**:
   - **~={orange}Header=~**:
-    - Crear `Header.astro`
-    - Diseñar y codificar el encabezado con logotipo y menú de navegación.
+    - Crear `Header.astro`:
+	    - este tiene un navbar donde a la izquierda tiene el nombre del sitio web en mi caso debe ser "bitforges.com" y a la derecha los apartados de la landing page "Inicio", "servicios", "Proyectos", "contacto" y adicionalmente un botón para cambiar entre light mode y dark mode
+	    - 
+    
   - **~={orange}Hero Section=~**:
     - Crear `Hero.astro`.
     - Diseñar y codificar la sección de inicio con texto y botón.
