@@ -68,13 +68,30 @@
 
 			FILA 0 COLUMNA 2:
 			- icon\n 
-		    - titulo "Sistemas de Ventas"
-		    - descripción: "Plataformas completas para gestionar tus ventas"
+		    - titulo: "Sistemas Administrativos"
+		    - descripción: "Herramientas personalizadas para tu empresa"
 		    - lista desordenada: 
-				- Control de inventario
-				- Reportes detallados
-				- Facturación automática
-    
+				- Gestión de usuarios
+				- Dashboard personalizado 
+				- Integración con APIs
+				
+			FILA 1 COLUMNA 0:
+			- icon\n 
+		    - titulo "Desarrollo a Medida"
+		    - descripción: "Soluciones personalizadas para necesidades específicas"
+		    - lista desordenada: 
+				- Análisis de requerimientos
+				- Desarrollo ágil
+				- Soporte continuo
+				
+			FILA 1 COLUMNA 1:
+			- icon\n 
+		    - titulo "Hosting Web"
+		    - descripción: "Alojamiento seguro y confiable para tu sitio web"
+		    - lista desordenada: 
+- SSL gratuito
+- Backups automáticos
+- Soporte 24/7
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
     - Diseñar y codificar el pie de página.
