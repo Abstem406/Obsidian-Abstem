@@ -93,7 +93,6 @@
 		    - descripción: "¿Tienes una idea específica? Hablemos sobre tu proyecto"
 		    - un botón que diga "Contactar Ahora"
 
-
   - ~={orange}**Projects Section**=~:
     - Crear ~={blue}projects.astro=~:
 	    - tiene que haber un titulo al principio de la sección "Proyectos Destacados" en medio de la pagina
@@ -108,8 +107,6 @@
 				    - pequeña descripción: "Plataforma completa de comercio electrónico con..."
 				    - y unas cuantas pildoras mas que destaquen con que fue hecho el sistema por ejemplo "React", "Node.js","mongoDB" etc..
 
-
-
   - ~={orange}**Contacts Section**=~:
     - Crear ~={blue}contacts.astro=~:
 	    - tiene que haber un titulo al principio de la sección "¿Listo para transformar tu negocio?" en medio de la pagina
@@ -119,13 +116,12 @@
 		    FILA 0 COLUMNA 0:
 		    - icono de Whatsapp en medio de la carta (Icono de la red socila) 
 		    - en este caso el titulo debajo del icono y tambien me medio de la carta debe ser el nombre de la red social en este ejemplo WhatsApp
-		- y debajo de las cards de contacto un breve parrafo con el texto "Respuesta garantizada en menos de 24 horas"
-
-
+		- y debajo de las cards de contacto un breve parráfo con el texto "Respuesta garantizada en menos de 24 horas"
 
   - ~={orange}**Footer**=~:
-    - Crear `Footer.astro`.
-    - Diseñar y codificar el pie de página.
+    - Crear ~={blue}Footer.astro=~:
+    - linea de separación 
+    - parráfo a la izquierda de la pagina que diga "© 2025 BitForges. Todos los derechos reservados.".
 
 ## 5. Estilo con Tailwind CSS
 - **~={green}Objetivo=~**: Aplicar estilos a los componentes usando Tailwind CSS.
