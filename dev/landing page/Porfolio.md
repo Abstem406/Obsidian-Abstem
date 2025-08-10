@@ -101,10 +101,12 @@
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 4 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
 		    FILA 0 COLUMNA 0:
-		    - la card en este caso es rectangulo 
-			- icon\n 
-		    - titulo "Landing Pages"
-		    - descripción: "Páginas web atractivas y optimizadas para conversión"
+		    - la card en este caso es rectangulo que esta conformado por 2 partes la superior y la inferior que están divididas a la mitad del rectangulo, 
+			    - la superior tiene una imagen que muestra una preview del proyecto y que en la parte superior derecha tiene un componente de pildora con el tipo de sistema que es por ejemplo "Web app", "Dashboard", "Landing" "E-commerce"
+			    - En la parte inferior un 
+				    - titulo "E-commerce Platform"
+				    - pequeña descripción: "Plataforma completa de comercio electrónico con..."
+				    - y unas cuantas pildoras mas que dest
 
 
 
