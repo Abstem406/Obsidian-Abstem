@@ -42,7 +42,12 @@
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
-	      icono para la lista desordenada 
+	      icono para la lista desordenada https://icon-sets.iconify.design/lucide/?icon-filter=check&keyword=lucide+ <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<g fill="none" stroke="#00c71f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+		<path d="M21.801 10A10 10 0 1 1 17 3.335" />
+		<path d="m9 11l3 3L22 4" />
+	</g>
+</svg>
 		    FILA 0 COLUMNA 0:
 			- icon\n 
 		    - titulo "Landing Pages"
@@ -53,6 +58,15 @@
 			    - Carga rápida
 			
 			FILA 0 COLUMNA 1:
+			- icon\n 
+		    - titulo "Sistemas de Ventas"
+		    - descripción: "Plataformas completas para gestionar tus ventas"
+		    - lista desordenada: 
+				- Control de inventario
+				- Reportes detallados
+				- Facturación automática
+
+			FILA 0 COLUMNA 2:
 			- icon\n 
 		    - titulo "Sistemas de Ventas"
 		    - descripción: "Plataformas completas para gestionar tus ventas"
