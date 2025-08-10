@@ -23,7 +23,7 @@
 - **~={green}Objetivo=~**: Desarrollar los componentes individuales.
 - **~={cyan}Tareas=~**:
   - **~={orange}Header=~**:
-    - Crear `Header.astro`.
+    - Crear `Header.astro`
     - Diseñar y codificar el encabezado con logotipo y menú de navegación.
   - **~={orange}Hero Section=~**:
     - Crear `Hero.astro`.
