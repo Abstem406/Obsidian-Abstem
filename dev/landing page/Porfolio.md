@@ -38,6 +38,10 @@
 	
   - ~={orange}**Services Section**=~:
     - Crear ~={blue}Services.astro=~:
+	    - tiene que haber un titulo al princio de la sección "Nuestros Servicios"
+	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
+	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
+	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción 
     - Diseñar y codificar la sección de servicios con tarjetas de servicio.
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
