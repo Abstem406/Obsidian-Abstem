@@ -25,8 +25,7 @@
   - **~={orange}Header=~**:
     - Crear ~={blue}Header.astro=~:
 	    - este tiene un navbar donde a la izquierda tiene el nombre del sitio web en mi caso debe ser "bitforges.com" y a la derecha los apartados de la landing page "Inicio", "servicios", "Proyectos", "contacto" y adicionalmente un botón para cambiar entre light mode y dark mode
-	    
-    
+
   - **~={orange}Hero Section=~**:
     - Crear ~={blue}Hero.astro=~:
 	    - luego seria la hero section, con un componente de pildora que diga "🥇Desarrollo web Profesional" a la parte izquida de la pagina
@@ -35,7 +34,7 @@
 	    - debajo de la descriptión dos botones
 		    - "Comenzar proyecto ➜"
 		    - "Ver portafolio"
-	
+
   - ~={orange}**Services Section**=~:
     - Crear ~={blue}Services.astro=~:
 	    - tiene que haber un titulo al principio de la sección "Nuestros Servicios" en medio de la pagina
