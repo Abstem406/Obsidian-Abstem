@@ -41,8 +41,16 @@
 	    - tiene que haber un titulo al princio de la sección "Nuestros Servicios"
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
-	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción 
-    - Diseñar y codificar la sección de servicios con tarjetas de servicio.
+	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
+		    FILA 0 COLUMNA 0:
+			- icon\n 
+		    - titulo "Landing Pages"
+		    - descripción: "Páginas web atractivas y optimizadas para conversión"
+		    - lista desordenada: 
+			    - Diseño responsive
+			    - SEO optimizado
+			    - Carga rápida
+    
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
     - Diseñar y codificar el pie de página.
