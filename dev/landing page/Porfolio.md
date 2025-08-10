@@ -42,6 +42,7 @@
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
 	    - las cards deben de ser un componente que tenga un icono un titulo un pequeña descripción y justo debajo de esa pequeña descripción tiene que haber una lista desordenada con los servicios relacionados con la card: 
+	      icono para la lista desordenada 
 		    FILA 0 COLUMNA 0:
 			- icon\n 
 		    - titulo "Landing Pages"
@@ -50,6 +51,15 @@
 			    - Diseño responsive
 			    - SEO optimizado
 			    - Carga rápida
+			
+			FILA 0 COLUMNA 1:
+			- icon\n 
+		    - titulo "Sistemas de Ventas"
+		    - descripción: "Plataformas completas para gestionar tus ventas"
+		    - lista desordenada: 
+				- Control de inventario
+				- Reportes detallados
+				- Facturación automática
     
   - ~={orange}**Footer**=~:
     - Crear `Footer.astro`.
