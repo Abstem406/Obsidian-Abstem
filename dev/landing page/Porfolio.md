@@ -23,11 +23,11 @@
 - **~={green}Objetivo=~**: Desarrollar los componentes individuales.
 - **~={cyan}Tareas=~**:
   - **~={orange}Header=~**:
-    - Crear ~={blue}Header.astro=~:
+    - Crear ~={blue}header.astro=~:
 	    - este tiene un navbar donde a la izquierda tiene el nombre del sitio web en mi caso debe ser "bitforges.com" y a la derecha los apartados de la landing page "Inicio", "servicios", "Proyectos", "contacto" y adicionalmente un botón para cambiar entre light mode y dark mode
 
   - **~={orange}Hero Section=~**:
-    - Crear ~={blue}Hero.astro=~:
+    - Crear ~={blue}hero.astro=~:
 	    - luego seria la hero section, con un componente de pildora que diga "🥇Desarrollo web Profesional" a la parte izquida de la pagina
 	    - debajo de la pildora esta el titulo que dice "Soluciones digitales" este tiene que aparecer con un efecto de typing al inicial la pagina 
 	    - debajo del titulo tiene que estar una description "Creamos paginas web modernas, sistemas administrativos personalizados y soluciones digitales que impulsen tu negocio hacia el éxito.\n desde landing page hasta sistemas de gestión  completos." 
@@ -36,7 +36,7 @@
 		    - "Ver portafolio"
 
   - ~={orange}**Services Section**=~:
-    - Crear ~={blue}Services.astro=~:
+    - Crear ~={blue}services.astro=~:
 	    - tiene que haber un titulo al principio de la sección "Nuestros Servicios" en medio de la pagina
 	    - debajo del titulo una breve descripción "Ofrecemos soluciones completas para todas tus necesidades digitales"
 	    - ahora debajo de la descripción tiene que haber un 2 filas y 3 columnas conformadas por cards 
